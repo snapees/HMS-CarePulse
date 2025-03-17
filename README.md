@@ -1,5 +1,6 @@
 <div align="center">
   
+  <h3 align="center">A HealthCare Management System</h3>
 
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
@@ -8,7 +9,6 @@
     <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
   </div>
 
-  <h3 align="center">A HealthCare Management System</h3>
 
  
 </div>
