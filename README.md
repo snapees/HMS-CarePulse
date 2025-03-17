@@ -46,7 +46,6 @@
 
 and many more, including code architecture and reusability
 
-<video width="320" height="240" controls>
-  <source src="CarePulse Tutorial.avi" type="video/avi">
-  Your browser does not support the video tag.
-</video>
+demo video ---->  You can take a look
+
+https://github.com/user-attachments/assets/bd3d544f-8a49-46b8-a491-48e54e40e410
