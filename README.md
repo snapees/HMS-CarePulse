@@ -45,3 +45,8 @@
 👉 **Manage and Track Application Performance Using Sentry**: The application uses Sentry to monitor and track its performance and detect any errors.
 
 and many more, including code architecture and reusability
+
+<video width="320" height="240" controls>
+  <source src="CarePulse Tutorial.avi" type="video/avi">
+  Your browser does not support the video tag.
+</video>
